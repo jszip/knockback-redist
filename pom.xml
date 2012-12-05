@@ -90,7 +90,7 @@
     <dependency>
       <groupId>org.jszip.redist</groupId>
       <artifactId>backbone-modelref</artifactId>
-      <version>0.1.3</version>
+      <version>0.1.5</version>
       <type>jszip</type>
       <optional>true</optional>
     </dependency>
