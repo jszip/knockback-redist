@@ -25,7 +25,7 @@
 
   <groupId>org.jszip.redist</groupId>
   <artifactId>knockback</artifactId>
-  <version>0.16.6</version>
+  <version>0.16.7-SNAPSHOT</version>
   <packaging>jszip</packaging>
 
   <name>knockback.js</name>
@@ -48,7 +48,7 @@
     <connection>scm:git:git://github.com/jszip/knockback-redist.git</connection>
     <developerConnection>scm:git:git@github.com:jszip/knockback-redist.git</developerConnection>
     <url>http://github.com/jszip/knockback-redist/tree/master/</url>
-    <tag>knockback-0.16.6</tag>
+    <tag>HEAD</tag>
   </scm>
   <issueManagement>
     <system>github</system>
